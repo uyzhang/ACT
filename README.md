@@ -46,7 +46,7 @@ lmms_eval/                            # forked from EvolvingLMMs-Lab/lmms-eval
 ## Setup
 
 ```bash
-git clone <repo-url> ACT
+git clone https://github.com/uyzhang/ACT.git
 cd ACT
 
 conda create -n act python=3.10 -y
